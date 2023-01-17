@@ -1,3 +1,3 @@
 # Baekjoon
 
-<img src="https://img.shields.io/tokei/lines/github/x3onkait/Baekjoon?style=for-the-badge">
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sayofrenchfries)](https://solved.ac/sayofrenchfries/)
